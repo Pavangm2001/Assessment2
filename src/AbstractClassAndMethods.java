@@ -2,7 +2,7 @@
 
 abstract class Vehicle {
     abstract void start();   // abstract method
-    abstract void stop();
+    abstract void stop();   // abstract method
 }
 
 class Car extends Vehicle {
